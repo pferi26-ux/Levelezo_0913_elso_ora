@@ -5,6 +5,7 @@ import modul
 #import modul as m
 #from modul import osszeg as szum
 #első próbálkozás
+
 '''
     több soros
 
