@@ -8,7 +8,7 @@ import modul
 
 '''
     több soros
-
+teszt
 
 kor = 50
 nev = "Elemér"
